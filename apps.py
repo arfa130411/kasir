@@ -1,4 +1,3 @@
-# membuat program kasir resto sederhana
 def counter_kasir():
     counter = input('hitung lagi: (y/n)')
     if counter == 'y':
